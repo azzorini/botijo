@@ -11,7 +11,7 @@ import random
 import logging
 import tresenraya as TER
 
-TOKEN = '661773579:AAHAgfLW3f7NsTWahP8_Ewu1HdTj3QyXr34' # Nuestro token del bot (el que @BotFather nos dió).
+TOKEN = '' # Nuestro token del bot (el que @BotFather nos dió).
 
 partidas = {}
 
